@@ -28,8 +28,7 @@ Welcome to my GitHub profile! I’m passionate about turning ideas into visually
 ---
 
 ## 💼 Portfolio
-
-Check out some of my projects here:  
+ 
 **🔗 [My Portfolio](https://www.figma.com/proto/4mYE0vDI2ypNKBAsdICAvi/Untitled?node-id=1-15&starting-point-node-id=1%3A15&t=jguuFp8wzOEvSwpg-1)**  
 
 ---
