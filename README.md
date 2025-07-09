@@ -24,7 +24,6 @@ Welcome to my GitHub profile! I’m passionate about turning ideas into visually
 - 🎨 **Design & Prototyping**: Figma, Web Design
 - 🖼️ **Visual Design Tools (VOD)**
 - ⚙️ **Version Control**: Git & GitHub
-- 📱 **Responsive Design** | ⚡ Performance Optimization | ✨ UI Animation
 
 ---
 
