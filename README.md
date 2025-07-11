@@ -44,12 +44,11 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi11-01&show_icons=true&theme=radical" alt="Vaishnavi's GitHub stats" height="180"/>
+  <!-- Main Stats without PRs or Contributed -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaishnavi11-01&theme=radical" alt="Vaishnavi's GitHub Stats" height="180"/>
+  
+  <!-- GitHub Streaks -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi11-01&theme=radical" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi11-01&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
