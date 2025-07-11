@@ -48,13 +48,6 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
     width="47%" 
     alt="Vaishnavi JS's GitHub Stats" 
   />
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviJS&layout=compact&theme=gradient&border_radius=10&hide_border=false" 
-    width="47%" 
-    alt="Top Languages"
-  />
 </p>
 
 
@@ -80,3 +73,13 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
 ---
 
 🌟 *Thanks for visiting my profile! Let's build something amazing together.*
+
+
+
+
+## 🗓️ GitHub Contributions
+
+<p align="center">
+  <img src="https://github.com/VaishnaviJS/VaishnaviJS/blob/main/contributions.png" alt="GitHub Contribution Heatmap" width="80%" style="border-radius: 10px;" />
+</p>
+
