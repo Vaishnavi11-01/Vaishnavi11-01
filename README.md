@@ -41,79 +41,18 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
 
 ---
 
-## 📊 GitHub Status
+## 📊 GitHub Stats
 
-<div align="center">
-  <table width="60%">
-    <tr>
-      <td align="center" colspan="3">
-        <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/000000/external-github-social-media-flat-icons-inmotus-design.png" width="50" alt="GitHub Icon"/>
-        <h3 style="margin-top: 5px;">Vaishnavi JS's GitHub Highlights</h3>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="https://img.icons8.com/emoji/48/star-emoji.png" width="28"/></td>
-      <td><strong>Total Stars Earned:</strong></td>
-      <td>🌟 <b>0</b></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.icons8.com/fluency/48/000000/clock.png" width="28"/></td>
-      <td><strong>Total Commits (2025):</strong></td>
-      <td>🔁 <b>8</b></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.icons8.com/color/48/000000/error--v1.png" width="28"/></td>
-      <td><strong>Total Issues:</strong></td>
-      <td>❗ <b>0</b></td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi11-01&show_icons=true&theme=radical" alt="Vaishnavi's GitHub stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi11-01&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
 
-  <br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi11-01&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi11-01&theme=radical&ring=ff0066&fire=ff00cc&currStreakLabel=ffffff" alt="GitHub Streak" height="180"/>
-</div>
-
-## 📊 GitHub Status
-
-<table align="center">
-  <tr>
-    <td><strong>⭐ Total Stars Earned:</strong></td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td><strong>🔁 Total Commits (2025):</strong></td>
-    <td>8</td>
-  </tr>
-  <tr>
-    <td><strong>❗ Total Issues:</strong></td>
-    <td>0</td>
-  </tr>
-</table>
-
-## 📊 GitHub Status
-
-<div align="center">
-
-<table>
-  <tr>
-    <td><img src="https://img.icons8.com/fluency/48/000000/star.png" width="24"/></td>
-    <td><strong>Total Stars Earned</strong></td>
-    <td>🌟 <b>0</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/fluency/48/000000/clock.png" width="24"/></td>
-    <td><strong>Total Commits (2025)</strong></td>
-    <td>🔁 <b>8</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/fluency/48/000000/error.png" width="24"/></td>
-    <td><strong>Total Issues</strong></td>
-    <td>❗ <b>0</b></td>
-  </tr>
-</table>
-
-</div>
-
+---
 
 ## 🔗 Let's Connect
 
