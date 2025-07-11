@@ -42,25 +42,25 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
 ## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <!-- Total Contributions + Repo Info -->
+  <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=vaishnavijs2006&show_icons=true&count_private=true&theme=gradient&border_radius=10&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api?username=VaishnaviJS&show_icons=true&count_private=true&theme=gradient&border_radius=10&hide_border=false" 
     width="47%" 
     alt="Vaishnavi JS's GitHub Stats" 
   />
 
-  <!-- Streak Stats -->
+  <!-- GitHub Streak -->
   <img 
-    src="https://streak-stats.demolab.com/?user=vaishnavijs2006&theme=gradient&border_radius=10&hide_border=false" 
+    src="https://streak-stats.demolab.com/?user=VaishnaviJS&theme=gradient&border_radius=10&hide_border=false" 
     width="47%" 
-    alt="Vaishnavi JS's GitHub Streak"
+    alt="GitHub Streak"
   />
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavijs2006&layout=compact&theme=gradient&border_radius=10&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviJS&layout=compact&theme=gradient&border_radius=10&hide_border=false" 
     width="47%" 
-    alt="Top Languages Used"
+    alt="Top Languages"
   />
 </p>
 
