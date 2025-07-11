@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
     alt="Vaishnavi's GitHub Stats" />
 </p>
 
-## Connect with me
+## 🌐Connect with me
 
 📌 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/vaishnavi-js200611?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 ✉️ **Email**: (vaishnavijs2006@gmail.com)
