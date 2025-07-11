@@ -47,6 +47,34 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaishnavi11-01&theme=radical" alt="Vaishnavi's GitHub Stats" height="180"/>
 </p>
 
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <table style="border: 2px solid #e4e4e4; border-radius: 10px; padding: 20px; width: 70%; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+    <tr>
+      <td colspan="3" align="center" style="color:#3f8efc; font-size: 20px; font-weight: bold; padding: 10px 0;">
+        VAISHNAVI JS's GitHub Stats
+      </td>
+    </tr>
+    <tr>
+      <td>⭐</td>
+      <td><strong>Total Stars Earned:</strong></td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>🔁</td>
+      <td><strong>Total Commits (2025):</strong></td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>❗</td>
+      <td><strong>Total Issues:</strong></td>
+      <td>0</td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 ## 🔗 Let's Connect
