@@ -58,6 +58,11 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
   </tr>
 </table>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vaishnavi11-01/Vaishnavi11-01/main/assets/github-custom-stats.png" alt="Vaishnavi's GitHub Stats" width="400"/>
+</p>
 
 ## 🔗 Let's Connect
 
