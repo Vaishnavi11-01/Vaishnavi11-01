@@ -39,53 +39,31 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
 - ⚡ **LeetCode**: [leetcode.com/vaishnavi112006](https://leetcode.com/vaishnavi112006)  
 - 🧠 **SkillRack**: [My Profile](http://www.skillrack.com/profile/532504/af5f30537fe42e3de8f2df2f37b5be9707e8659d)
 
-## 📊 GitHub Stats
-<table>
-<div align="center">
+## 📊 GitHub Activity & Stats
 
-  <div style="
-    width: 420px;
-    background: linear-gradient(145deg, #f4faff, #ffffff);
-    border-radius: 16px;
-    padding: 25px 30px;
-    box-shadow: 4px 8px 24px rgba(0, 0, 0, 0.1);
-    font-family: 'Segoe UI', sans-serif;
-    color: #333;
-    transition: 0.3s ease-in-out;
-  ">
-<table>
-    <h2 style="color: #337af7; font-size: 22px; margin-bottom: 15px; font-weight: bold;">
-      💻 Vaishnavi JS's GitHub Stats
-    </h2>
+<p align="center">
+  <!-- Total Contributions + Repo Info -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vaishnavijs2006&show_icons=true&count_private=true&theme=gradient&border_radius=10&hide_border=false" 
+    width="47%" 
+    alt="Vaishnavi JS's GitHub Stats" 
+  />
 
-    
-   style="width: 100%; font-size: 16px; line-height: 1.6;">
-      <tr>
-        <td>⭐</td>
-        <td><strong>Total Stars Earned</strong></td>
-        <td align="right"><strong>0</strong></td>
-      </tr>
-      <tr>
-        <td>🔁</td>
-        <td><strong>Total Commits (2025)</strong></td>
-        <td align="right"><strong>8</strong></td>
-      </tr>
-      <tr>
-        <td>❗</td>
-        <td><strong>Total Issues</strong></td>
-        <td align="right"><strong>0</strong></td>
-      </tr>
-    </table>
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com/?user=vaishnavijs2006&theme=gradient&border_radius=10&hide_border=false" 
+    width="47%" 
+    alt="Vaishnavi JS's GitHub Streak"
+  />
 
-    <div 
-   style="margin-top: 25px;">
-      <img src="https://img.icons8.com/color/96/github--v1.png" width="60" alt="GitHub Logo"/>
-    </div>
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavijs2006&layout=compact&theme=gradient&border_radius=10&hide_border=false" 
+    width="47%" 
+    alt="Top Languages Used"
+  />
+</p>
 
-  </div>
-
-</div>
-</table>
 
 
 ## 🔗 Let's Connect
