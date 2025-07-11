@@ -9,29 +9,22 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
 ## 🙋‍♀️ About Me
 
 - 🎓 I’m currently pursuing **B.Tech in Information Technology**.
-- 🌱 I’m actively learning **Real-Time Scripting**, **Java**, **JavaScript**, **CSS**, **HTML**, and **content/print design**.
+- 🌱 I’m actively learning **Real-Time Scripting**,**HTML**,**CSS**,**Java**, **JavaScript**.
 - 💻 I’m currently working on a **full-fledged website project**.
-- 💡 I enjoy **learning new technologies**, solving real-world problems, and exploring innovative ideas.
-- 🤝 I love **collaborating with others**, participating in **hackathons**, and joining **tech communities**.
-- 🚀 I have a growth mindset and always look for opportunities to **build, improve, and innovate**.
 - ✉️ Feel free to reach me at: **vaishunivijs2006@gmail.com**
 
----
 
-## 🚀 Skills & Expertise
+##  Skills & Expertise
 
 - 🌐 **Frontend Development**: HTML, CSS, JavaScript
 - 🎨 **Design & Prototyping**: Figma, Web Design
-- 🖼️ **Visual Design Tools (VOD)**
 - ⚙️ **Version Control**: Git & GitHub
 
----
 
-## 💼 Portfolio
+##  Portfolio
  
 **🔗 [My Portfolio](https://www.figma.com/proto/4mYE0vDI2ypNKBAsdICAvi/Untitled?node-id=1-15&starting-point-node-id=1%3A15&t=jguuFp8wzOEvSwpg-1)**  
 
----
 
 ## 👩‍💻 Coding Profiles
 
@@ -39,7 +32,6 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
 - ⚡ **LeetCode**: [leetcode.com/vaishnavi112006](https://leetcode.com/vaishnavi112006)  
 - 🧠 **SkillRack**: [My Profile](http://www.skillrack.com/profile/532504/af5f30537fe42e3de8f2df2f37b5be9707e8659d)
 
----
 
 ## 📊 GitHub Stats
 
@@ -50,6 +42,13 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
     alt="Vaishnavi's GitHub Stats" 
   />
 </p>
+
+
+## 📊 GitHub Activities
+
+[![Vaishnavi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-vaishnav&bg_color=050505&color=f8f7f8&line=25c144&point=eee3e3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavi-vaishnav&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ---
 
