@@ -49,13 +49,6 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
     alt="Vaishnavi JS's GitHub Stats" 
   />
 
-  <!-- GitHub Streak -->
-  <img 
-    src="https://streak-stats.demolab.com/?user=VaishnaviJS&theme=gradient&border_radius=10&hide_border=false" 
-    width="47%" 
-    alt="GitHub Streak"
-  />
-
   <!-- Top Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviJS&layout=compact&theme=gradient&border_radius=10&hide_border=false" 
@@ -63,7 +56,6 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
     alt="Top Languages"
   />
 </p>
-
 
 
 ## 🔗 Let's Connect
