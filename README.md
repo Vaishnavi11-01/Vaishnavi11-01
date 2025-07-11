@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Vaishnavi JS 
 
-🧑‍💻👩‍💻 **Frontend Developer >< UI/UX Designer >< Web Designer**
+👩‍💻 **Frontend Developer >|< UI/UX Designer >|< Web Designer**
 
 Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Technology and I’m passionate about turning ideas into visually appealing and functional websites. I specialize in **frontend development**, **Figma-based UI/UX design**, and building clean, responsive websites.
 
 ---
 
-## 🧑‍🎓👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 I’m currently pursuing **B.Tech in Information Technology**.
 - 📈📚I’m actively learning **Real-Time Scripting**,**HTML**,**CSS**,**Java**, **JavaScript**.
