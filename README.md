@@ -6,14 +6,14 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
 
 ---
 
-##🧑‍🎓 About Me
+## 🧑‍🎓 About Me
 
 - 🎓 I’m currently pursuing **B.Tech in Information Technology**.
 - 📈📚I’m actively learning **Real-Time Scripting**,**HTML**,**CSS**,**Java**, **JavaScript**.
 - 💻 I’m currently working on a **full-fledged website project**.
 - ✉️ Feel free to reach me at: **vaishunivijs2006@gmail.com**
 
-##📊 Skills 
+## 📊 Skills 
 
 - 🌐 **Frontend Development**: HTML, CSS, JavaScript
 - 🎨 **Design & Prototyping**: Figma, Web Design
