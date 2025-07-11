@@ -50,6 +50,7 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
   />
 </p>
 
+---
 
 ## 🔗 Let's Connect
 
@@ -73,13 +74,3 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
 ---
 
 🌟 *Thanks for visiting my profile! Let's build something amazing together.*
-
-
-
-
-## 🗓️ GitHub Contributions
-
-<p align="center">
-  <img src="https://github.com/VaishnaviJS/VaishnaviJS/blob/main/contributions.png" alt="GitHub Contribution Heatmap" width="80%" style="border-radius: 10px;" />
-</p>
-
