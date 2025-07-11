@@ -40,45 +40,52 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
 - 🧠 **SkillRack**: [My Profile](http://www.skillrack.com/profile/532504/af5f30537fe42e3de8f2df2f37b5be9707e8659d)
 
 ## 📊 GitHub Stats
-
+<table>
 <div align="center">
-  <div style="
-    background: #ffffff;
-    color: #000000;
-    padding: 30px;
-    border-radius: 15px;
-    width: 360px;
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
-    font-family: 'Segoe UI', sans-serif;
-    transition: all 0.3s ease;
-  ">
-    <h3 style="color: #3f8efc; font-weight: 700; font-size: 22px; margin-bottom: 20px;">
-      🚀 VAISHNAVI JS's GitHub Stats
-    </h3>
 
-    <table align="center" style="width: 100%; font-size: 16px;">
+  <div style="
+    width: 420px;
+    background: linear-gradient(145deg, #f4faff, #ffffff);
+    border-radius: 16px;
+    padding: 25px 30px;
+    box-shadow: 4px 8px 24px rgba(0, 0, 0, 0.1);
+    font-family: 'Segoe UI', sans-serif;
+    color: #333;
+    transition: 0.3s ease-in-out;
+  ">
+<table>
+    <h2 style="color: #337af7; font-size: 22px; margin-bottom: 15px; font-weight: bold;">
+      💻 Vaishnavi JS's GitHub Stats
+    </h2>
+
+    
+   style="width: 100%; font-size: 16px; line-height: 1.6;">
       <tr>
         <td>⭐</td>
-        <td><strong>Total Stars Earned:</strong></td>
-        <td align="right">0</td>
+        <td><strong>Total Stars Earned</strong></td>
+        <td align="right"><strong>0</strong></td>
       </tr>
       <tr>
         <td>🔁</td>
-        <td><strong>Total Commits (2025):</strong></td>
-        <td align="right">8</td>
+        <td><strong>Total Commits (2025)</strong></td>
+        <td align="right"><strong>8</strong></td>
       </tr>
       <tr>
         <td>❗</td>
-        <td><strong>Total Issues:</strong></td>
-        <td align="right">0</td>
+        <td><strong>Total Issues</strong></td>
+        <td align="right"><strong>0</strong></td>
       </tr>
     </table>
 
-    <div style="margin-top: 25px;">
-      <img src="https://img.icons8.com/color/96/github--v1.png" width="60" alt="GitHub Icon"/>
+    <div 
+   style="margin-top: 25px;">
+      <img src="https://img.icons8.com/color/96/github--v1.png" width="60" alt="GitHub Logo"/>
     </div>
+
   </div>
+
 </div>
+</table>
 
 
 ## 🔗 Let's Connect
