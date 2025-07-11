@@ -58,11 +58,29 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
   </tr>
 </table>
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
-<p align="center">
-  <img src="https://github.com/Vaishnavi11-01/Vaishnavi11-01/blob/main/assets/vaishnavi-github-stats.png?raw=true" alt="Vaishnavi's GitHub Stats" width="400"/>
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/fluency/48/000000/star.png" width="24"/></td>
+    <td><strong>Total Stars Earned</strong></td>
+    <td>🌟 <b>0</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/fluency/48/000000/clock.png" width="24"/></td>
+    <td><strong>Total Commits (2025)</strong></td>
+    <td>🔁 <b>8</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/fluency/48/000000/error.png" width="24"/></td>
+    <td><strong>Total Issues</strong></td>
+    <td>❗ <b>0</b></td>
+  </tr>
+</table>
+
+</div>
 
 
 ## 🔗 Let's Connect
