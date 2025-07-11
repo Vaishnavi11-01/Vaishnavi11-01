@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
 - 🌐 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/vaishnavi-js200611?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - ✉️ **Email**: (vaishnavijs2006@gmail.com)
 
-## 🛠️⚒️Languages & Tools
+## ⚒️Languages & Tools
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
