@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Vaishnavi JS 
 
-🎨 **Frontend Developer | UI/UX Enthusiast | Web Designer**
+🎨 **Frontend Developer | UI/UX Designer | Web Designer**
 
-Welcome to my GitHub profile! I’m passionate about turning ideas into visually appealing and functional websites. I specialize in **frontend development**, **Figma-based UI/UX design**, and building clean, responsive web interfaces.
+Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Technology and I’m passionate about turning ideas into visually appealing and functional websites. I specialize in **frontend development**, **Figma-based UI/UX design**, and building clean, responsive websites.
 
 ---
 
@@ -30,6 +30,27 @@ Welcome to my GitHub profile! I’m passionate about turning ideas into visually
 ## 💼 Portfolio
  
 **🔗 [My Portfolio](https://www.figma.com/proto/4mYE0vDI2ypNKBAsdICAvi/Untitled?node-id=1-15&starting-point-node-id=1%3A15&t=jguuFp8wzOEvSwpg-1)**  
+
+---
+
+## 👩‍💻 Coding Profiles
+
+- 💻 **HackerRank**: [vaishnavijs200](https://www.hackerrank.com/profile/vaishnavijs200)  
+- ⚡ **LeetCode**: [leetcode.com/vaishnavi112006](https://leetcode.com/vaishnavi112006)  
+- 🧠 **SkillRack**: [My Profile](http://www.skillrack.com/profile/532504/af5f30537fe42e3de8f2df2f37b5be9707e8659d)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi11-01&show_icons=true&theme=radical" alt="Vaishnavi's GitHub stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi11-01&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi11-01&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
 ---
 
