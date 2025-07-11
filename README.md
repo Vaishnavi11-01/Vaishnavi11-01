@@ -4,20 +4,18 @@
 
 Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Technology and I’m passionate about turning ideas into visually appealing and functional websites. I specialize in **frontend development**, **Figma-based UI/UX design**, and building clean, responsive websites.
 
----
-
 ## 👩‍💻 About Me
 
-- 🎓 I’m currently pursuing **B.Tech in Information Technology**.
-- 📈📚I’m actively learning **Real-Time Scripting**,**HTML**,**CSS**,**Java**, **JavaScript**.
-- 💻 I’m currently working on a **full-fledged website project**.
-- ✉️ Feel free to reach me at: **vaishunivijs2006@gmail.com**
+ 🎓 I’m currently pursuing **B.Tech in Information Technology**.
+ 📈📚I’m actively learning **Real-Time Scripting**,**HTML**,**CSS**,**Java**, **JavaScript**.
+ 💻 I’m currently working on a **full-fledged website project**.
+ ✉️ Feel free to reach me at: **vaishunivijs2006@gmail.com**
 
 ## 📊 Skills 
 
-- 🌐 **Frontend Development**: HTML, CSS, JavaScript
-- 🎨 **Design & Prototyping**: Figma, Web Design
-- ⚙️ **Version Control**: Git & GitHub
+ 🌐 **Frontend Development**: HTML, CSS, JavaScript
+ 🎨 **Design & Prototyping**: Figma, Web Design
+ ⚙️ **Version Control**: Git & GitHub
 
 ## Portfolio
  
