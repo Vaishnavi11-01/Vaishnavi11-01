@@ -39,15 +39,8 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
 - ⚡ **LeetCode**: [leetcode.com/vaishnavi112006](https://leetcode.com/vaishnavi112006)  
 - 🧠 **SkillRack**: [My Profile](http://www.skillrack.com/profile/532504/af5f30537fe42e3de8f2df2f37b5be9707e8659d)
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <img 
-      src="https://github-readme-stats.vercel.app/api?username=vaishnavi-vaishnav&show_icons=true&count_private=true&theme=gradient&hide=stars,prs,contribs,issues&border_radius=10&hide_border=false"
-  width="47%"
-    alt="Vaishnavi JS's GitHub Stats" 
-  />
-</p>
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -55,12 +48,6 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
     src="https://github-readme-stats.vercel.app/api?username=vaishnavi-vaishnav&show_icons=true&count_private=true&theme=gradient&border_radius=10&hide=prs,contribs&hide_border=false" 
     width="47%" 
     alt="Vaishnavi's GitHub Stats" 
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-vaishnav&layout=compact&theme=gradient&border_radius=10&hide_border=false" 
-    width="47%" 
-    alt="Top Languages"
   />
 </p>
 
