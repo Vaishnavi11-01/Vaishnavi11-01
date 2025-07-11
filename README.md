@@ -48,6 +48,12 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
 </p>
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaishnavi11-01&theme=2077" alt="Vaishnavi's GitHub Stats" />
+</p>
+
 ---
 
 ## 🔗 Let's Connect
