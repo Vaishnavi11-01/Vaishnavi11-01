@@ -41,11 +41,23 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
 
 ---
 
-## 📊 GitHub Status
+## 📊 GitHub Status 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaishnavi11-01&theme=2077" alt="Vaishnavi's GitHub Stats" />
-</p>
+<table align="center">
+  <tr>
+    <td><strong>⭐ Total Stars Earned:</strong></td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td><strong>🔁 Total Commits (2025):</strong></td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td><strong>❗ Total Issues:</strong></td>
+    <td>0</td>
+  </tr>
+</table>
+
 
 ## 🔗 Let's Connect
 
