@@ -73,6 +73,22 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi11-01&theme=radical&ring=ff0066&fire=ff00cc&currStreakLabel=ffffff" alt="GitHub Streak" height="180"/>
 </div>
 
+## 📊 GitHub Status
+
+<table align="center">
+  <tr>
+    <td><strong>⭐ Total Stars Earned:</strong></td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td><strong>🔁 Total Commits (2025):</strong></td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td><strong>❗ Total Issues:</strong></td>
+    <td>0</td>
+  </tr>
+</table>
 
 ## 📊 GitHub Status
 
