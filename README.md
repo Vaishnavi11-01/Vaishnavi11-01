@@ -13,9 +13,9 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
 
 ## 📊 Skills 
 
- 🌐 **Frontend Development**: HTML, CSS, JavaScript
- 🎨 **Design & Prototyping**: Figma, Web Design
- ⚙️ **Version Control**: Git & GitHub
+ - 🌐 **Frontend Development**: HTML, CSS, JavaScript
+ - 🎨 **Design & Prototyping**: Figma, Web Design
+ - ⚙️ **Version Control**: Git & GitHub
 
 ## Portfolio
  
@@ -38,8 +38,8 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
 
 ## 🤝Connect with me
 
-🌐 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/vaishnavi-js200611?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-✉️ **Email**: (vaishnavijs2006@gmail.com)
+- 🌐 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/vaishnavi-js200611?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- ✉️ **Email**: (vaishnavijs2006@gmail.com)
 
 ## 🛠️⚒️Languages & Tools
 
