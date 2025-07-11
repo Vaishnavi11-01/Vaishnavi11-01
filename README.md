@@ -44,8 +44,8 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
 <p align="center">
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=VaishnaviJS&show_icons=true&count_private=true&theme=gradient&border_radius=10&hide_border=false" 
-    width="47%" 
+    src="https://github-readme-stats.vercel.app/api?username=VaishnaviJS&show_icons=true&count_private=true&theme=gradient&hide=prs,contribs&border_radius=10&hide_border=false" 
+  width="47% 
     alt="Vaishnavi JS's GitHub Stats" 
   />
 </p>
