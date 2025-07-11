@@ -48,6 +48,21 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
     alt="Vaishnavi JS's GitHub Stats" 
   />
 </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vaishnavi-vaishnav&show_icons=true&count_private=true&theme=gradient&border_radius=10&hide=prs,contribs&hide_border=false" 
+    width="47%" 
+    alt="Vaishnavi's GitHub Stats" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-vaishnav&layout=compact&theme=gradient&border_radius=10&hide_border=false" 
+    width="47%" 
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
