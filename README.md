@@ -44,11 +44,7 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Main Stats without PRs or Contributed -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaishnavi11-01&theme=radical" alt="Vaishnavi's GitHub Stats" height="180"/>
-  
-  <!-- GitHub Streaks -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi11-01&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
