@@ -39,43 +39,47 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
 - ⚡ **LeetCode**: [leetcode.com/vaishnavi112006](https://leetcode.com/vaishnavi112006)  
 - 🧠 **SkillRack**: [My Profile](http://www.skillrack.com/profile/532504/af5f30537fe42e3de8f2df2f37b5be9707e8659d)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaishnavi11-01&theme=radical" alt="Vaishnavi's GitHub Stats" height="180"/>
-</p>
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table style="border: 2px solid #e4e4e4; border-radius: 10px; padding: 20px; width: 70%; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
-    <tr>
-      <td colspan="3" align="center" style="color:#3f8efc; font-size: 20px; font-weight: bold; padding: 10px 0;">
-        VAISHNAVI JS's GitHub Stats
-      </td>
-    </tr>
-    <tr>
-      <td>⭐</td>
-      <td><strong>Total Stars Earned:</strong></td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>🔁</td>
-      <td><strong>Total Commits (2025):</strong></td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>❗</td>
-      <td><strong>Total Issues:</strong></td>
-      <td>0</td>
-    </tr>
-  </table>
+  <div style="
+    background: #ffffff;
+    color: #000000;
+    padding: 30px;
+    border-radius: 15px;
+    width: 360px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+    font-family: 'Segoe UI', sans-serif;
+    transition: all 0.3s ease;
+  ">
+    <h3 style="color: #3f8efc; font-weight: 700; font-size: 22px; margin-bottom: 20px;">
+      🚀 VAISHNAVI JS's GitHub Stats
+    </h3>
+
+    <table align="center" style="width: 100%; font-size: 16px;">
+      <tr>
+        <td>⭐</td>
+        <td><strong>Total Stars Earned:</strong></td>
+        <td align="right">0</td>
+      </tr>
+      <tr>
+        <td>🔁</td>
+        <td><strong>Total Commits (2025):</strong></td>
+        <td align="right">8</td>
+      </tr>
+      <tr>
+        <td>❗</td>
+        <td><strong>Total Issues:</strong></td>
+        <td align="right">0</td>
+      </tr>
+    </table>
+
+    <div style="margin-top: 25px;">
+      <img src="https://img.icons8.com/color/96/github--v1.png" width="60" alt="GitHub Icon"/>
+    </div>
+  </div>
 </div>
 
----
 
 ## 🔗 Let's Connect
 
