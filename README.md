@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Information Techn
  - 🎓  I’m currently pursuing **B.Tech in Information Technology**.
  - 📈📚 I’m actively learning **Real-Time Scripting**,**HTML**,**CSS**,**Java**, **JavaScript**.
  - 💻  I’m currently working on a **full-fledged website project**.
- - ✉️  Feel free to reach me at: **vaishunivijs2006@gmail.com**
+ - ✉️  Feel free to reach me at: **vaishnavijs2006@gmail.com**
 
 ## 📊 Skills 
 
